@@ -1,0 +1,7 @@
+
+ git config --global user.name "Su nombre completo" 
+
+ git config --global user.email su.correo@itszapopan.google.com
+
+ git config --global push.default simple
+
