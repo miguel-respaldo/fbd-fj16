@@ -19,10 +19,10 @@ El conjunto de varios Archivos/Tablas hace una BD.
 
 ### Carninalidad
 
-1:1
-1:N
-N:1
-M:M
+* 1:1
+* 1:N
+* N:1
+* M:M
 
 #### Ejemplo
 
@@ -50,5 +50,19 @@ Proceso de simplificación de los datos
 * Elimintar datos repetidos.
 * Elimintar errores lógicos.
 * Datos ordenados.
+
+###Niveles
+
+- Primer Forma Normal
+  * Identificar los grupos de repetición
+- Segunda Forma Normal
+- Tercer Forma Normal
+- Forma Normal Boyce codd
+- Cuarta Forma Normal
+- Quinta Forma Normal
+
+
+La **simplificación** se tiene que dar sin perdida de información
+
 
 
