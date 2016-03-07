@@ -56,6 +56,10 @@ Proceso de simplificación de los datos
 - Primer Forma Normal
   * Identificar los grupos de repetición
 - Segunda Forma Normal
+  * Dependencia Funcional
+    + A-B  A-C
+  * Dependencia Transitiva
+    + A-B  B-C  C-A
 - Tercer Forma Normal
 - Forma Normal Boyce codd
 - Cuarta Forma Normal
