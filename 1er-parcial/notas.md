@@ -13,14 +13,20 @@ El conjunto de varios Archivos/Tablas hace una BD.
 
 * Entidad (Cuadrado)
 * Relación (Rombo)
-* Atributos (Obalos)
-   - Clave primaria ovalo relleno
-   - Clave foranea ovalo mitad relleno
+* Atributos (Óvalos)
+   - Clave primaria óvalo relleno
+   - Clave foranea óvalo mitad relleno
 
+### Carninalidad
+
+1:1
+1:N
+N:1
+M:M
 
 #### Ejemplo
 
-  Una escuela desea tener una based de datos, que almacene los datos
+  Una escuela desea tener una base de datos, que almacene los datos
   principales de un alumno,la carrera que estudia las materias que cursa
   y los profesores que imparten clase.
 
@@ -28,5 +34,11 @@ El conjunto de varios Archivos/Tablas hace una BD.
   cada profesor.
 
 
+## Modelo Relacional en SQL
+
+* Entidades --> Tablas
+* Atributos --> Campos
+* Registro   -->  Tuplas
+* Cardinalidad  --> Relaciones
 
 
