@@ -42,3 +42,13 @@ M:M
 * Cardinalidad  --> Relaciones
 
 
+## Normalización
+
+Proceso de simplificación de los datos
+
+* Tener almacenados con el menor espacio posible.
+* Elimintar datos repetidos.
+* Elimintar errores lógicos.
+* Datos ordenados.
+
+
