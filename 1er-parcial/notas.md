@@ -51,7 +51,7 @@ Proceso de simplificación de los datos
 * Elimintar errores lógicos.
 * Datos ordenados.
 
-###Niveles
+### Niveles
 
 - Primer Forma Normal
   * Identificar los grupos de repetición
@@ -61,6 +61,7 @@ Proceso de simplificación de los datos
   * Dependencia Transitiva
     + A-B  B-C  C-A
 - Tercer Forma Normal
+  * Reducir espacio con claves primarias
 - Forma Normal Boyce codd
 - Cuarta Forma Normal
 - Quinta Forma Normal
